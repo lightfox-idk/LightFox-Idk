@@ -1,5 +1,24 @@
-# LightFoxCanEatCode
-<p>Hello my name id Hugo Meira, Iam a junior programmer currently working just with html and css.</p>
-<p>I'm currently working with my "portfolio" project, i just using it to test my skills.</p>
-<p>I'm brazillian and i speak portuguese and english.</p>
-<h2>I started programming in html and css at december of last year, and now im aiming to learn javascript</h2> 
+# Hello my name is Hugo Meira
+<h2>I'm a junior programmer</h2>
+________________________________
+
+<p>I started programming last year and currently i only know HTML and CSS.</p>
+<p>Now im currently unable to use a pc so that really slow down me because making a website using only a phone and not knowing how it behaves in other dimensions and resolutions its hard.</h2>
+________________________________
+
+<h2>My Objectives</h2>
+________________________________
+
+<h3>I want to master the above languages:</h3>
+<p>
+■ Java
+■ Python
+■ Javascript
+■ C#
+■ Typescript
+■ Kotlin
+■ Dart
+■ Go 
+■ C
+■ C++
+</p>
