@@ -20,3 +20,6 @@ Now im currently unable to use a pc so that really slow down me because making a
 - WebAssembly
  
  And others.
+
+I want to make my portfolio as well, and i currently working on it,its pretty basic but im learning
+Here is the link: [LightFox](https://github.com/lightfox-idk/lightfox-idk.github.io.git).
