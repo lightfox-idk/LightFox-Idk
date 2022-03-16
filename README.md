@@ -1,12 +1,21 @@
 # Hello my name is Hugo Meira
-I'm a junior programmer
+I'm a beginner programmer.
 
 I started programming last year and currently i only know HTML and CSS.
-Now im currently unable to use a pc so that really slow down me because making a website using only a phone and not knowing how it behaves in other dimensions and resolutions its hard.
 
-# My Objectives
 
-###  I want to master the above languages:
+## Currently Learning
+
+- Javascript (Maybe i can learn this one fast).
+
+
+## Currently Working with:
+ 
+Nothing Now :/
+
+## My Objectives:
+
+###  I want to master the below languages:
 - Java
 - Python
 - Javascript
@@ -17,9 +26,9 @@ Now im currently unable to use a pc so that really slow down me because making a
 - Go 
 - C
 - C++
-- WebAssembly
+- <span style='color:#80ff00;'>WebAssembly.</span>
  
  And others.
 
-I want to make my portfolio as well, and i currently working on it,its pretty basic but im learning
+I want to make my portfolio as well, and i currently working on it,its pretty basic but im learning.
 Here is the link: [LightFox](https://github.com/lightfox-idk/lightfox-idk.github.io.git).
