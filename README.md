@@ -6,19 +6,22 @@ I started programming last year and currently i only know HTML and CSS.
 
 ## Currently Learning
 
-- Javascript (Maybe i can learn this one fast).
+Nothing.
 
+### Learned 
+- **HTML**
+- **CSS**
+- **Javascript**
 
 ## Currently Working with:
  
-Nothing Now :/
+My ***webpage***
 
 ## My Objectives:
 
 ###  I want to master the below languages:
 - Java
 - Python
-- Javascript
 - C#
 - Typescript
 - Kotlin
