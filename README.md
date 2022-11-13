@@ -1,3 +1,3 @@
-# yo
+# Hi!
 
-I don't do anything useful so low your expectations about me.
+I don't how to do anything useful.
