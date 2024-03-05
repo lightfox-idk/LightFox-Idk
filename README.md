@@ -1,3 +1,2 @@
 # Hi!
-
-I don't how to do anything useful.
+I don't know how to do anything useful.
